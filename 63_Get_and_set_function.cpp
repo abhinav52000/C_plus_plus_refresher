@@ -14,6 +14,7 @@ public:
         else
         {
             cout << "\nInvalid parameter passed try again.";
+            length = 0;
         }
     }
     void setbreadth(int a)
@@ -25,6 +26,7 @@ public:
         else
         {
             cout << "\nInvalid parameter passed try again";
+            breadth = 0;
         }
     }
     int getlength()
