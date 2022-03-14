@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Get and set function get is called accessor and set is called mutator
 class Rectangle
 {
     int length, breadth;
